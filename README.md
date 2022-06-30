@@ -1,2 +1,2 @@
-# Tableau-
+# Tableau
 Business Intelligence with Tableau
